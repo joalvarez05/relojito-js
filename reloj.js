@@ -1,4 +1,4 @@
-mos al final.
+
 const relojito = setInterval(() => {
   let meses = [
     "Enero",
